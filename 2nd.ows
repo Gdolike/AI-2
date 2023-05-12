@@ -170,7 +170,7 @@ IGFjaWSUSwJoHEsCjAljaGxvcmlkZXOUSwKME2ZyZWUgc3VsZnVyIGRpb3hpZGWUSwKMFHRvdGFs
 IHN1bGZ1ciBkaW94aWRllEsCaB1LAmgeSwKMCXN1bHBoYXRlc5RLAmgfSwKMAklklEsCdWggfZR1
 YmV1Lg==
 </properties>
-		<properties node_id="8" format="literal">{'auto_commit': True, 'controlAreaVisible': True, 'k': 3, 'k_from': 2, 'k_to': 6, 'max_iterations': 200, 'n_init': 10, 'normalize': True, 'optimize_k': True, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\x86\x00\x00\x00\x96\x00\x00\x04J\x00\x00\x01\xdf\x00\x00\x02\x87\x00\x00\x00\xb4\x00\x00\x04I\x00\x00\x01\xde\x00\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x02\x87\x00\x00\x00\xb4\x00\x00\x04I\x00\x00\x01\xde', 'selection': None, 'smart_init': 0, '__version__': 2}</properties>
+		<properties node_id="8" format="literal">{'auto_commit': True, 'controlAreaVisible': True, 'k': 3, 'k_from': 2, 'k_to': 6, 'max_iterations': 200, 'n_init': 10, 'normalize': True, 'optimize_k': True, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\x86\x00\x00\x00\x96\x00\x00\x04J\x00\x00\x01\xdf\x00\x00\x02\x87\x00\x00\x00\xb4\x00\x00\x04I\x00\x00\x01\xde\x00\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x02\x87\x00\x00\x00\xb4\x00\x00\x04I\x00\x00\x01\xde', 'selection': 2, 'smart_init': 0, '__version__': 2}</properties>
 		<properties node_id="9" format="pickle">gASVSQUAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMC2F1dG9fc2FtcGxllIiMEmNvbnRyb2xBcmVh
 VmlzaWJsZZSIjBNzYXZlZFdpZGdldEdlb21ldHJ5lENCAdnQywADAAAAAADVAAAAQgAABCsAAAJA
 AAAA1gAAAGAAAAQqAAACPwAAAAAAAAAABQAAAADWAAAAYAAABCoAAAI/lIwJc2VsZWN0aW9ulE6M
@@ -658,7 +658,7 @@ sAQAAEsCjAljaGxvcmlkZXOUSwKME2ZyZWUgc3VsZnVyIGRpb3hpZGWUSwKMFHRvdGFsIHN1bGZ1
 ciBkaW94aWRllEsCarEEAABLAmqyBAAASwKMCXN1bHBoYXRlc5RLAmqzBAAASwKMAklklEsCarQE
 AABLAnVqtQQAAH2UdWJldS4=
 </properties>
-		<properties node_id="14" format="literal">{'auto_commit': True, 'controlAreaVisible': True, 'k': 3, 'k_from': 2, 'k_to': 6, 'max_iterations': 300, 'n_init': 10, 'normalize': True, 'optimize_k': True, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x03$\x00\x00\x00\xa8\x00\x00\x04\xe8\x00\x00\x01\xf1\x00\x00\x03%\x00\x00\x00\xc6\x00\x00\x04\xe7\x00\x00\x01\xf0\x00\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x03%\x00\x00\x00\xc6\x00\x00\x04\xe7\x00\x00\x01\xf0', 'selection': None, 'smart_init': 0, '__version__': 2}</properties>
+		<properties node_id="14" format="literal">{'auto_commit': True, 'controlAreaVisible': True, 'k': 3, 'k_from': 2, 'k_to': 6, 'max_iterations': 300, 'n_init': 10, 'normalize': True, 'optimize_k': True, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x03$\x00\x00\x00\xa8\x00\x00\x04\xe8\x00\x00\x01\xf1\x00\x00\x03%\x00\x00\x00\xc6\x00\x00\x04\xe7\x00\x00\x01\xf0\x00\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x03%\x00\x00\x00\xc6\x00\x00\x04\xe7\x00\x00\x01\xf0', 'selection': 2, 'smart_init': 0, '__version__': 2}</properties>
 		<properties node_id="15" format="pickle">gASVpAUAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMC2F1dG9fc2FtcGxllIiMEmNvbnRyb2xBcmVh
 VmlzaWJsZZSIjBNzYXZlZFdpZGdldEdlb21ldHJ5lENCAdnQywADAAAAAADVAAAAQgAABCsAAAJA
 AAAA1gAAAGAAAAQqAAACPwAAAAAAAAAABQAAAADWAAAAYAAABCoAAAI/lIwJc2VsZWN0aW9ulE6M
